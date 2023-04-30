@@ -1,28 +1,8 @@
 # seedbf
-Try to bruteforce Bitcoin mnemonic's passphrase
 
-### Prerequisites:
-Clone the repository with
-```
-git clone https://github.com/ASeriousMister/seedbf
-```
-Go to the tool's folder
-```
-cd seedbf
-```
-If you want set-up a virtual environment
-```
-pip3 install virtualenv
-virtualenv sbve
-```
-Activate the virtual environment
-```
-source /sbve/bin/activate
-```
-Install requirements with
-```
-pip3 -r install requirements.txt
-```
+## This version of the tool has been customized to work with the [AnuBitux](https://anubitux.org) live system. To use it with other environments, please refer to the [main branch](https://github.com/ASeriousMister/seedbf)
+
+Try to bruteforce Bitcoin mnemonic's passphrase
 
 ### Usage:
 Now simply run the tool, like suggested:
