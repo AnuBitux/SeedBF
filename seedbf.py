@@ -1,4 +1,4 @@
-#!/home/anubitux/Tools/Recovery/seedbf/sbve/bin/python3
+#!/home/anubitux/Tools/Recovery/SeedBF/sbve/bin/python3
 
 import argparse
 from os.path import exists
