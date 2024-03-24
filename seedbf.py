@@ -1,5 +1,3 @@
-#!/home/anubitux/Tools/Recovery/SeedBF/sbve/bin/python3
-
 import argparse
 from os.path import exists
 from hdwallet import HDWallet
