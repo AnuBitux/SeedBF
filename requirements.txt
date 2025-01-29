@@ -1,4 +1,4 @@
 argparse
 pybip39
-hdwallet
+hdwallet==2.2.1
 requests
